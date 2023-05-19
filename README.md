@@ -33,3 +33,7 @@ Você pode implementar uma fila de diversas formas, como com arrays ou até mesm
 O desafio do dia é implementar uma pilha simples para gerenciar os livros da saga "As Crônicas de Gelo e Fogo" (Game of Thrones). Cada livro deve ter um nome e o número de páginas. O sistema deve permitir adicionar novos livros na pilha, remover livros, mostrar o livro que está no topo e listar todos os livros da pilha.
 
 Você pode implementar uma pilha de diversas formas, como com arrays ou até mesmo listas encadeadas. Para este desafio, eu vou fazer com arrays, mas sinta-se livre em decidir qual abordagem irá seguir.
+
+# Dia 6 - Hashmap
+
+O desafio para o dia de hoje é implementar um sistema de pontuação para jogos online usando uma técnica de hashmap na sua linguagem preferida. Cada jogador terá um nome de usuário e um número de pontos associado, e o sistema deve permitir adicionar novos jogadores, atualizar a pontuação de jogadores existentes, remover jogadores e listar todos os jogadores em ordem decrescente de pontos, além de determinar qual jogador é o vencedor.
