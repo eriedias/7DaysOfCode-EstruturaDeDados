@@ -37,3 +37,13 @@ Você pode implementar uma pilha de diversas formas, como com arrays ou até mes
 # Dia 6 - Hashmap
 
 O desafio para o dia de hoje é implementar um sistema de pontuação para jogos online usando uma técnica de hashmap na sua linguagem preferida. Cada jogador terá um nome de usuário e um número de pontos associado, e o sistema deve permitir adicionar novos jogadores, atualizar a pontuação de jogadores existentes, remover jogadores e listar todos os jogadores em ordem decrescente de pontos, além de determinar qual jogador é o vencedor.
+
+# Dia 7 - Árvores
+
+Imagine que você está trabalhando em um sistema de gerenciamento de estoque de uma loja online. Você precisa implementar uma árvore binária que possa armazenar informações sobre os produtos em estoque. Cada nó na árvore deve representar um produto, e deve conter as seguintes informações:
+
+    • ID do produto (um número inteiro único);
+    • Nome do produto;
+    • Quantidade em estoque.
+
+Sua tarefa é implementar uma função que insere um novo produto na árvore com base no seu ID. A função deve receber como entrada o ID do novo produto, o nome e a quantidade em estoque. Se o ID já existir na árvore, a função deve atualizar as informações do produto.
