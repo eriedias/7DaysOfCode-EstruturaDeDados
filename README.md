@@ -1,4 +1,5 @@
 # 7DaysOfCode-EstruturaDeDados
+![Screenshot_1](https://github.com/eriedias/7DaysOfCode-EstruturaDeDados/assets/13467019/eeb131eb-ce41-4292-96ec-7ee212f94459)
 
 # Dia 1 - Arrays
 
